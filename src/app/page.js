@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      토다닥 Root Page
+      토다닥 Root Page test
       <br>
       </br>
       <Image
